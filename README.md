@@ -1,4 +1,4 @@
-# Seminari UB
+# Python UB 10-2017
 
 ## Llibres:
 + [Scipy Lectures](http://www.scipy-lectures.org/)
